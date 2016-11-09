@@ -10,5 +10,5 @@ C:\Users\"username"\AppData\Roaming
 #[osx] 
 /Users/"username"/Library/Application\ Support/
 
-4.Create new profile, Set Version to Release 1.6.4-Forge9.11.1.1345
+4.Create new profile, Set Version to Release 1.6.4-Forge9.11.1.1345              
 5.Set Game Directory
